@@ -4,7 +4,7 @@ int main()
     int i , j ,a;
     for (i=1 ; i<=4 ; i++)
     {
-        for (a = 1 ;a<=i-1  ;a++)
+        for (a = 1 ;a<=4-i  ;a++)
         {
             printf(" ");
         }
