@@ -6,4 +6,4 @@ This repository contains different pattern printing programs written in C using 
 
 C programming
 
-### Pattern made 
+### Pattern made by using array
